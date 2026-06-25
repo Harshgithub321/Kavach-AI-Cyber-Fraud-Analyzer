@@ -256,7 +256,6 @@ GEMINI_API_KEY=your_secret_key
 **Harsh Srivastava**
 
 GitHub: https://github.com/Harshgithub321
-Deployed App: https://kavach-ai-cyber-fraud-analyzer-gf9tbe7ij3bgmbww3tmrme.streamlit.app/
 
 ## 📜 License
 
